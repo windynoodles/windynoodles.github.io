@@ -16,6 +16,9 @@ header * {
 	padding-left: 10px;
 	padding-right: 10px;
 }
-main {
-	padding: 10px;
+.chunk {
+	margin: 10px;
+	outline: 5px #ccc solid;
+	background: linear-gradient(180deg, #fff 0, #eee 50px);
+	border-radius: 5px;
 }
